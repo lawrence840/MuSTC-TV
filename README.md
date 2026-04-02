@@ -1,4 +1,4 @@
-# MuSTC-TV: Structure-Adaptive Reweighted Total Variation for 3D Muon Tomography
+# MuonSTC-TV: Structure-Adaptive Reweighted Total Variation for 3D Muon Tomography
 
 ## 📖 Overview
 **MuSTC-TV** implements a **Structure-Adaptive Reweighted Total Variation (SA-RTV)** regularization algorithm tailored for 3D reconstruction in cosmic-ray muon transmission imaging. 
